@@ -1,0 +1,46 @@
+.op99
+{
+    font-size: 17px;
+    width: 100%;
+    margin: 0px;
+}
+.kid
+{
+    font-size: 13px;
+    color: white;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.avenger
+{
+    float: left;
+}
+.avenger_only
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#thor
+{
+    font-size: 15px;
+    margin: 15px;
+}
+.avenger_volume
+{
+    float: right;
+}
+#hulk
+{
+    font-size: 15px;
+    margin: 15px;
+}
+canvas
+{
+    border-radius : 15px;
+    border-color : black;
+    border-width : 5px;
+    border-style :ridge;
+}
